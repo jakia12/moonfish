@@ -80,6 +80,10 @@ h6 {
   font-family: "Space Ranger", sans-serif;
 }
 
+p,
+a {
+  font-family: "poppins", sans-serif;
+}
 .cs-primary_font {
   letter-spacing: 0.02em;
 }

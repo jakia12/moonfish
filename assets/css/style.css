@@ -64,7 +64,6 @@ html {
 body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.8)),
     url(/assets/img/bg1.avif);
-  background-attachment: fixed;
 }
 h1,
 h2,
@@ -4015,5 +4014,11 @@ img.road_img {
 @media screen and (max-width: 768px) {
   .title {
     font-size: 46px;
+  }
+  body {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.8)),
+      url(/assets/img/bg1.avif);
+    background-attachment: fixed;
+    background-position: center;
   }
 }

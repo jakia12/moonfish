@@ -4016,6 +4016,7 @@ img.road_img {
 @media screen and (max-width: 768px) {
   .title {
     font-size: 46px;
+    padding-top: 30px;
   }
   body {
     /* background-image: linear-gradient(rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.8)),

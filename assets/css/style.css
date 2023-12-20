@@ -61,7 +61,10 @@ html {
   overflow-x: hidden;
   background-color: #ffffff;
 }
-
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.77), rgba(0, 0, 0, 0.8)),
+    url(/assets/img/bg1.avif);
+}
 h1,
 h2,
 h3,
